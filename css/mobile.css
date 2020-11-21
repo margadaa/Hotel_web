@@ -1,0 +1,49 @@
+#navbar .logo{
+   float: none; 
+   text-align: center;
+}
+#navber ul, 
+#navbar ul li {
+    float: none;
+}
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted;
+}
+/* Showcase */
+#showcase {
+    height: 100%;
+}
+#showcase .showcase-content {
+    padding: 70px;
+    padding: ;
+}
+/* Hotel Info */
+#hotel-info .info-img {
+    display: none;
+}
+#hotel-info .info-text{
+    float: none;
+    width: 100%;
+}
+/* Boxes */
+.box {
+    float: none;
+    width: 100%;
+}
+/* about info */
+#about-info .info-right,
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+.l-heading {
+    text-align: center;
+}
+#about-info .info-right {
+    margin-top: 30px;
+}
+/* contact Info */
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
+}

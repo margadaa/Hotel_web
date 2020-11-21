@@ -80,13 +80,13 @@ p {
 #navbar a{
     color: #fff;
 }
-#navbar h1{
+#navbar .logo{
     float: left;
     padding-top: 20px;
 }
 #navbar ul {
-    list-style: none;
     float: right;
+    list-style: none;
 }
 #navbar ul li{
     float: left;
@@ -121,7 +121,7 @@ p {
 }
 /* Information */
 #hotel-info {
-    height: 400px;
+    height: 450px;
 }
 #hotel-info .info-img{
   float: left;  
